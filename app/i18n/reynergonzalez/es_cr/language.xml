@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Translation by: Reyner González
+ * See LICENCE.txt for details
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>es_CR</code>
+    <vendor>reynergonzalez</vendor>
+    <package>es_cr</package>
+</language>
